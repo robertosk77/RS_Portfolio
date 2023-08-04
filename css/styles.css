@@ -20,7 +20,11 @@ ul{
 	background-color:black;
 
 }
-.centeredImage{
-	width:50%
-	height:auto;
+img{
+    margin: 1px;
+    border: 1px white;
+    padding: 1px;
+    box-sizing:content-box;
+    width:33%;
+    height:auto;
 }
