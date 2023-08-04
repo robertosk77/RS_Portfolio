@@ -1,0 +1,26 @@
+p{
+	color: blue;
+}
+*{
+	background-color:black;
+	color:white;
+	font-size: large;
+}
+ul{
+	float:right;
+}
+.column{
+	border: 1px;
+	padding: 1px;
+	margin-bottom:1px;
+	margin-top:1px;
+	margin-left:1px;
+	margin-right:1px;
+	box-sizing:content-box;
+	background-color:black;
+
+}
+.centeredImage{
+	width:50%
+	height:auto;
+}
