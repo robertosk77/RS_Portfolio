@@ -1,9 +1,16 @@
 ## Application Name
+
 Roberto Sanchez - Portfolio
 
 
+## GitHub Pages Link
+
+https://robertosk77.github.io/RS_Portfolio.github.io/
+
+
 ## Contributors
-N/A
+
+Google
 
 
 ## Brief Description
@@ -19,12 +26,15 @@ To install my project, you will need to:
 2. Navigate to the top level of the directory.
 3. Run index.html in your browser and enjoy the website!
 
+## Known Bugs
+
+TBD (None currently)
 
 ## Technologies Used
 
 * HTML
 * CSS
-* GitHub
+* GitHub Pages
 
 
 ## License & Copyright
